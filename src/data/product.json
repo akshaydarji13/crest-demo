@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "mobile",
+    "company": "apple",
+    "model-name": "iPhone 12",
+    "RAM": "8GB",
+    "Processor": "A14 Bionic",
+    "Space": "128",
+    "OS": "iOS",
+    "purchaseLimit": 2
+  },
+  {
+    "id": 2,
+    "type": "mobile",
+    "company": "apple",
+    "model-name": "iPhone 12",
+    "RAM": "8GB",
+    "Processor": "A14 Bionic",
+    "Space": "256",
+    "OS": "iOS",
+    "purchaseLimit": 3
+  },
+  {
+    "id": 3,
+    "type": "mobile",
+    "company": "apple",
+    "model-name": "iPhone 12",
+    "RAM": "8GB",
+    "Processor": "A14 Bionic",
+    "Space": "512",
+    "OS": "iOS",
+    "purchaseLimit": 5
+  },
+  {
+    "id": 4,
+    "type": "mobile",
+    "company": "Samsung",
+    "model-name": "Galaxy S21",
+    "RAM": "8GB",
+    "Processor": "A14 ",
+    "Space": "128",
+    "OS": "Android 11",
+    "purchaseLimit": 1
+  },
+  {
+    "id": 5,
+    "type": "mobile",
+    "company": "Samsung",
+    "model-name": "Galaxy S21",
+    "RAM": "8GB",
+    "Processor": "A14 ",
+    "Space": "256",
+    "OS": "Android 11",
+    "purchaseLimit": 4
+  }
+]
